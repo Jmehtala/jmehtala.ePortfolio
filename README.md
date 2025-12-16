@@ -1,6 +1,6 @@
 # ePortfolio
 
-**My Personal Perfessional Assessment**
+**My Personal Porfessional Assessment**
 
 Based on the various enhancements across the 3 artifacats, I feel that my software development journey has demonstrated significant growth and a well rounded skille set. 
 From foundational programming to complex full-stack and data structure implementations, my knowledge has expanded massively. The Animal Shelter Dashboard (CS499 Milestone 2), showcases robust full stack integration by successfully connecting a MongoDB database to a Python application which I believe proves my ability to manage both front end to back end operations. To highlight my commitment to code modularity, I migrated that application from JupyterDash to a standalone Dash and refactored the database interactions. 
