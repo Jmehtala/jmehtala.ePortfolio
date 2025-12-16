@@ -1,7 +1,5 @@
 **CS499 Milestone 2** 
 
-[Milestone 2 Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-2)
-
 1)	Briefly describe the artifact. What is it? When was it created?
 
 This artifact is from CS340 and it is a dashboard to search through all of the different animals in shelters by using certain filters and graphics.
