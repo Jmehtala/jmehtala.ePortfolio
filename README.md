@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 **CS499 Milestone 2** 
 
-(https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-2)
+[Milestone 2 Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-2)
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -48,9 +48,9 @@ In the enhancement, I had to find a port and install brand new modules that woul
 
 **CS499 Milestone 3** 
 
-(https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3)
+[Milestone 3 Original Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3)
 
-(https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3-Enhancements)
+[Milestone 3 Enhanced Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3-Enhancements)
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -85,7 +85,7 @@ A few methods were out of date and insecure and it took a little while to get ev
 
 **CS499 Milestone Four**
 
-(https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-4)
+[Milestone 4 Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-4)
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
