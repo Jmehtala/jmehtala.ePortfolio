@@ -19,7 +19,9 @@ ________________________________________________________________________________
 
 **CS499 ePortfolio Narratives**
 
-**CS499 Milestone 2**
+**CS499 Milestone 2** 
+
+https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-2
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -50,6 +52,10 @@ The main challenge I faced was getting a MongoDB database hosted locally while t
 In the enhancement, I had to find a port and install brand new modules that would allow me to host MongoDB locally and run the code. 
 
 **CS499 Milestone 3** 
+
+https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3 
+
+https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3-Enhancements
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -83,6 +89,8 @@ Biggest challenge I faced was getting the Visual Studio code to function properl
 A few methods were out of date and insecure and it took a little while to get everything up to par with modern security and coding standards.
 
 **CS499 Milestone Four**
+
+https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-4
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
