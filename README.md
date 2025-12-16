@@ -1,7 +1,7 @@
 # ePortfolio
-CS499 ePortfolio
+CS499 ePortfolio Narratives
 
-CS499 Milestone 2 Narrative
+**CS499 Milestone 2**
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -31,7 +31,7 @@ Yes and no; Yes because I successfully migrated from JupyterDash to just Dash wh
 The main challenge I faced was getting a MongoDB database hosted locally while trying to migrate everything to Dash. The original project was made in a VM on the SNHU site which came with Mongo Client integrated with specific ports and needed specific code to access it.
 In the enhancement, I had to find a port and install brand new modules that would allow me to host MongoDB locally and run the code. 
 
-CS499 Milestone 3 
+**CS499 Milestone 3** 
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
@@ -64,7 +64,7 @@ I think I met the outcomes for this enhancement, I want to add charts and better
 Biggest challenge I faced was getting the Visual Studio code to function properly on the  2026 version as the original code was written on the 2019 version which I had installed at the time of creation.
 A few methods were out of date and insecure and it took a little while to get everything up to par with modern security and coding standards.
 
-CS499 Milestone Four
+**CS499 Milestone Four**
 
 1)	Briefly describe the artifact. What is it? When was it created?
 
