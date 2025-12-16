@@ -2,8 +2,6 @@
 
 [Milestone 3 Original Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3)
 
-[Milestone 3 Enhanced Files](https://github.com/Jmehtala/jmehtala.ePortfolio/tree/Jmehtala-Milestone-3-Enhancements)
-
 1)	Briefly describe the artifact. What is it? When was it created?
 
 This artifact is from CS210 and it is an investment calculator that takes in initial investment, monthly investment, interest, and how long the investment is.
