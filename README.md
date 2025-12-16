@@ -1,18 +1,13 @@
 # ePortfolio
 
-**Artifact 1: Animal Shelter Dashboard (CS340):**
+**My Personal Perfessional Assessment**
 
-This artifact strongly demonstrates full-stack development and database management proficiency, particularly using the MERN-like stack components 
-(MongoDB, Python/Dash for backend/frontend).
+Based on the various enhancements across the 3 artifacats, I feel that my software development journey has demonstrated significant growth and a well rounded skille set. 
+From foundational programming to complex full-stack and data structure implementations, my knowledge has expanded massively. The Animal Shelter Dashboard (CS499 Milestone 2), showcases robust full stack integration by successfully connecting a MongoDB database to a Python application which I believe proves my ability to manage both front end to back end operations. To highlight my commitment to code modularity, I migrated that application from JupyterDash to a standalone Dash and refactored the database interactions. 
 
-**Artifact 2: Investment Calculator (CS210):**
+To display my core computer science principles, the enhancements seen in CS499 Milestone 4 demonstrate how I handle data structures by upgrading the system to use flexible std::vector and implementing a more efficient separate chaining method within the hash table to resolve collision issues. I believe it shows a strong grasp of algorithmic efficiency and C++ implementation. 
 
-This project showcases a foundational understanding of programming principles, 
-with recent enhancements focusing on code stability and user experience improvements, reflecting significant growth since the artifact's original creation.
-
-**Artifact 3: Course Prerequisite System (CS300)**
-
-This artifact demonstrates strong growth in managing complex data structures and algorithms, which are crucial for performance and scalability in software design.
+Lastly, the enhacements made in the CS499 Milestone 2 showcases my beliefs in improving code quality and user experience. The enhancements focused on stabilizing the core calculations, cleaning up and reorganizing code, and addressing outdated/insecure methods that were used to create the original code. I believe it illustrates my dedicated focus on code security, maintenance, and my foundational programming growth. 
 
 ______________________________________________________________________________________________________________________________________________________________________
 
